@@ -1,0 +1,4 @@
+name: BilibiliInformation
+version: 1.0-SNAPSHOT
+main: com.github.evanluo42.BilibiliInformation
+api-version: 1.13
